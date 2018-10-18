@@ -1,0 +1,1 @@
+{"name":"octopub-collection-1","title":"octopub-collection-1","description":"test","licenses":[{"url":"https://opendefinition.org/licenses/odc-odbl","title":"Open Data Commons Open Database License 1.0"}],"publishers":[{"name":null,"web":null}],"resources":[{"name":"prenoms","mediatype":"text/csv","description":"","path":"data/prenoms.csv"}]}
